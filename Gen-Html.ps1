@@ -1,7 +1,7 @@
 $readlogs = Get-Content -Path "C:\logs\logs.txt"
 $createhtml = "<html>
 <head>
-<title>LUDER TINDER</title>
+<title>HTML OUTPUT</title>
 <style>
 .pace {
   -webkit-pointer-events: none;
